@@ -3268,7 +3268,7 @@ warn("Imported Ui")
 
 
 local win = EngUi:Window("")
-local serv = win:Server("SwitchHub Combat", "")
+local serv = win:Server("Surat X HUB ", "")
 
 local Tab1 = serv:Channel("Settings Bounty", "")
 
